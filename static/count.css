@@ -1,0 +1,26 @@
+* {
+    width: 900px;
+    margin: 0px auto;
+}
+
+h1 {
+    margin: 100px auto 40px auto;
+    color: blue;
+}
+h2 {
+    margin: 100px auto 40px auto;
+    color: blue;
+}
+div {
+    width: 900px;
+    margin: 0px auto;
+}
+button {
+    width: 100px;
+    height: 30px;
+    padding: 5px;
+    margin: 30px auto;
+    border-radius: 10px;
+    font-style: bold;
+    font-size: 14pt;
+}
